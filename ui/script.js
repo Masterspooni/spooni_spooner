@@ -1,16 +1,4 @@
-var peds = [];
-var vehicles = [];
-var objects = [];
-var spooni = [];
-var scenarios = [];
-var weapons = [];
-var animations = {};
-var propsets = [];
-var pickups = [];
-var walkStyleBases = [];
-var walkStyles = [];
-var currentData = [];
-var currentDeletionSelection;
+
 
 var lastSpawnMenu = -1;
 
